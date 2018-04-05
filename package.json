@@ -1,0 +1,17 @@
+{
+  "name": "google-says",
+  "version": "1.0.0",
+  "description": "simple google search app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "test"
+  },
+  "author": "Sunjin Kang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.3.1",
+    "inquirer": "^5.1.0"
+  }
+}
