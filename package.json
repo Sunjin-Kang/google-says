@@ -10,7 +10,7 @@
   "author": "Sunjin Kang",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "chalk": "^2.3.1",
     "inquirer": "^5.1.0"
   }
